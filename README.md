@@ -2,8 +2,9 @@
 # Amazon Sales Analysis (Python Project)
 
 ## Overview
-This project analyzes Amazon sales data using Python.  
-The dataset contains 128k+ rows and 21 columns.
+This project analyzes Amazon sales data to understand customer behavior and product demand.  
+The analysis shows that most customers are from Maharashtra, the majority of buyers are retailers,orders are mainly fulfilled through Amazon, T-shirts are the highest-demand product, and M-size is 
+the most preferred among customers.
 
 ## Libraries Used
 - NumPy
